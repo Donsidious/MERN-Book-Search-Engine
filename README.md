@@ -35,7 +35,9 @@ Deploying to Heroku presented challenges, particularly in connecting MongoDB. To
 
 ![Homepage](./Images/Book.PNG)
 
-![Searched Books](./Images/Book1.PNG)
+![Searched Books1](./Images/Book1.PNG)
+
+![Searched Books2](./Images/Book2.PNG)
 
 ## Technologies Used
 
